@@ -8,23 +8,23 @@ If you don't want to use python, simply use these links in your browser or in te
 ## Get infos
 * get robot status
 
-    http://<robot-ip>:10009/get/status
+    http://\<robot-ip\>:10009/get/status
 * get robot id
 
-    http://<robot-ip>:10009/get/robot_id
+    http://\<robot-ip\>:10009/get/robot_id
 * get robot schedule
 
-    http://<robot-ip>:10009/get/schedule
+    http://\<robot-ip\>:10009/get/schedule
 ## Set commands
 * send robot home
 
-    http://<robot-ip>:10009/set/go_home
+    http://\<robot-ip\>:10009/set/go_home
 * stop robot cleaning
 
-    http://<robot-ip>:10009/set/stop
+    http://\<robot-ip\>:10009/set/stop
 * start or continue cleaning
 
-    http://<robot-ip>:10009/clean_start_or_continue?cleaning_parameter_set=1
+    http://\<robot-ip\>:10009/clean_start_or_continue?cleaning_parameter_set=1
 
 # Miscellaneous
 About the Server on the robot
