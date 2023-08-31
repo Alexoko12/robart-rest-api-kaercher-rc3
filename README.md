@@ -28,7 +28,11 @@ If you don't want to use python, simply use these links in your browser or in te
 
 # Miscellaneous
 About the Server on the robot
-PORT      STATE SERVICE
-10008/tcp open  echo
-10009/tcp open  HTTP REST Api
+
 Server: RobArt Custom (0.1)
+
+PORT | STATE | SERVICE
+---- | ----- | -------
+10008/tcp | open | echo
+10009/tcp | open | HTTP REST Api
+
